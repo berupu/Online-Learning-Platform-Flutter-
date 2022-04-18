@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287068179238",
+    "project_id": "online-learning-platform-1a674",
+    "storage_bucket": "online-learning-platform-1a674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287068179238:android:7d4ca6b96362bc4b6e8fe7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287068179238-elfk72u5b01mvrgqb5hmtn79t8kg8p2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB4r-fkeHI9lZGicBmk9DiHmpa45ljp50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287068179238-elfk72u5b01mvrgqb5hmtn79t8kg8p2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">287068179238-elfk72u5b01mvrgqb5hmtn79t8kg8p2n.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">287068179238</string>
+    <string name="google_api_key" translatable="false">AIzaSyDB4r-fkeHI9lZGicBmk9DiHmpa45ljp50</string>
+    <string name="google_app_id" translatable="false">1:287068179238:android:7d4ca6b96362bc4b6e8fe7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDB4r-fkeHI9lZGicBmk9DiHmpa45ljp50</string>
+    <string name="google_storage_bucket" translatable="false">online-learning-platform-1a674.appspot.com</string>
+    <string name="project_id" translatable="false">online-learning-platform-1a674</string>
+</resources>
