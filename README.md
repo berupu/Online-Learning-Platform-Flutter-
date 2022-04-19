@@ -2,8 +2,9 @@
 
 
 
+<img src="https://github.com/berupu/Online-Learning-Platform-Flutter-/blob/main/Online%20Learning%20Platform%20.mov" width="300" /> 
 
-https://github.com/berupu/Online-Learning-Platform-Flutter-/blob/main/Online%20Learning%20Platform%20.mov
+
 
 Dependicies
  sliding_up_panel: ^2.0.0+1
