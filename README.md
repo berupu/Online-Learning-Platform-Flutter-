@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/berupu/Online-Learning-Platform-Flutter-/blob/main/Online%20Learning%20Platform%20.mov" width="300" /> 
+<img src="https://github.com/berupu/Online-Learning-Platform-Flutter-/blob/main/Online%20Learning%20Platform.mp4" width="300" /> 
 
 
 
